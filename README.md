@@ -1,7 +1,6 @@
 # 📝 알고리즘
 
-### - [스택](https://github.com/miniecloud/algorithm/tree/main/20_stack)
-### - [큐,데큐](https://github.com/miniecloud/algorithm/tree/main/21_queueDeque)
+### - [스택,큐,덱](https://github.com/miniecloud/algorithm/tree/main/stack_queue_deque)
 ### - [집합과 맵](https://github.com/miniecloud/algorithm/tree/main/13_set_map)
 ### - [우선순위 큐](https://github.com/miniecloud/algorithm/tree/main/24_priorityQueue) 
 
