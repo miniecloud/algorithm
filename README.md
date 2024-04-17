@@ -1,6 +1,6 @@
 ### 백준 알고리즘 풀이
 --------------------------------------------
- - ![10_정렬](https://github.com/miniecloud/algorithm/tree/main/10_sorting)
+- [10_정렬](https://github.com/miniecloud/algorithm/tree/main/10_sorting)
 - 11_재귀
 - 12_완전탐색
 - 13_집합과 맵
